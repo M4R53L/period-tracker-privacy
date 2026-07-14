@@ -1,6 +1,6 @@
 # Privacy Policy — Period Tracker
 
-**Last updated: July 14, 2025**
+**Last updated: July 14, 2026**
 
 This Privacy Policy describes how the "Period Tracker" mobile application (the "App") handles your information.
 
@@ -58,6 +58,15 @@ If you have questions about this Privacy Policy, contact:
 
 **Marsel Nasr**  
 Email: marselnaser7@gmail.com
+
+## Support
+
+For help with Period Tracker, questions, or feedback, contact:
+
+**Marsel Nasr**  
+Email: marselnaser7@gmail.com
+
+Period Tracker is entirely on-device — there is no account or server, so no account information or server-side action is needed for support. Because all your data is stored only on your device, any data concerns can be resolved by deleting the app, which permanently erases everything.
 
 ## Changes to This Policy
 
